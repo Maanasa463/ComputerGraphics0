@@ -1,0 +1,9 @@
+/home/maanasa/cg/ass0/2021101101/build/CMakeFiles/app.dir
+/home/maanasa/cg/ass0/2021101101/build/CMakeFiles/glad.dir
+/home/maanasa/cg/ass0/2021101101/build/CMakeFiles/edit_cache.dir
+/home/maanasa/cg/ass0/2021101101/build/CMakeFiles/rebuild_cache.dir
+/home/maanasa/cg/ass0/2021101101/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/maanasa/cg/ass0/2021101101/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/maanasa/cg/ass0/2021101101/build/libraries/glfw/src/CMakeFiles/glfw.dir
+/home/maanasa/cg/ass0/2021101101/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/maanasa/cg/ass0/2021101101/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
